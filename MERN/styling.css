@@ -1,0 +1,15 @@
+.p{
+    display: flex;
+    margin-right: 100px;
+    flex-direction: column;
+    width: 300px;
+}
+.p>div{
+    border: 5px;
+    color: blanchedalmond;
+    background-color:blueviolet;
+    font-size: larger;
+    margin: 10px;
+    padding: 30px;
+   
+}
